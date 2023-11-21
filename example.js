@@ -1,0 +1,1 @@
+let r = require('./dist/gradule.cjs')
