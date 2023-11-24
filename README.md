@@ -3,6 +3,8 @@
 ## Description
 gradule is a Node.js library for creating colorful terminal output using gradient presets. It allows you to easily print strings with color gradients, apply bold and italic styles, and even ask for user input with styled prompts.
 
+Inspired by `cnrad/iridi`.
+
 ## Usage
 To use gradule in your Node.js application, you simply need to import the library and use its functions. Here's an example of how to use it:
 
